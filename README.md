@@ -1,2 +1,2 @@
 ## Machine Learning Algorithms implementation
-You will find here examples of Machine Learnig Algorithms implementation using python
+You will find here examples of Machine Learnig Algorithms, Examples and implementation of Classification and Regresion implementation using python.
