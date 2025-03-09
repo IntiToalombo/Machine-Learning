@@ -1,0 +1,1 @@
+# Smart strawberry disease detection MSc Thesis
