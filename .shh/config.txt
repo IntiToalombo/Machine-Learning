@@ -1,0 +1,6 @@
+# filepath: C:\Users\sol14\Documents\ML\Machine-Learning\.shh\config
+
+Host my-remote-server
+    HostName 172.28.0.12
+    User sol14
+    IdentityFile C:\\Users\\sol14\\Documents\\ML\\Machine-Learning\\.ssh\\id_rsa

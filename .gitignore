@@ -1,0 +1,5 @@
+#Ignore files to upload to git hub (Machine-Learning) folder.
+classification-logistic-regression/
+kaggle.json
+segment-anything-2/
+multiple-linear-regression/
